@@ -5,12 +5,14 @@
 1. Web app to upload the files to process. This will upload files to S3.
     url: http://erm-dataupload.s3-website-ap-southeast-2.amazonaws.com/
 
-2. An API is exposed to process files uploaded in step1 and returns transformed result.
+2. An API is exposed to process files uploaded in step1 and returns transformed result. Returns error message in case of any issues.
     API url: https://73digu5iwa.execute-api.ap-southeast-2.amazonaws.com/dev/api/lp
     API url: https://73digu5iwa.execute-api.ap-southeast-2.amazonaws.com/dev/api/tou
+
+# AWS Services used:
+1. S3 static website hosting for Angular 8 web app for upload funtionality.
+2. API Gateway and Lambda to expose API to process the data.
 
 # Prerequisites to run local:
 NodeJS, Angular cli, dotnet core 2.1
 
-
-# Access to solution
