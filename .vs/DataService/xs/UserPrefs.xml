@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{B7C065CF-7E08-4308-AD0E-9B94E271FB01}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataService.API/AWSServices/S3Service.cs">
+    <Files>
+      <File FileName="DataService.Test/Workers/LPDataAggregatorTest (copy).cs" Line="16" Column="10" />
+      <File FileName="DataService.API/AWSServices/S3Service.cs" Line="35" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataService" expanded="True">
+            <Node name="DataService" expanded="True">
+              <Node name="AWSServices" expanded="True">
+                <Node name="S3Service.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Mappers" expanded="True" />
+              <Node name="Workers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="DataService.Test" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Workers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DataService" expanded="True">
+            <Node name="DataService.Test" expanded="True">
+              <Node name="DataService" expanded="True">
+                <Node name="Test" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="LPControllerTest" expanded="True" />
+                  </Node>
+                  <Node name="Workers" expanded="True">
+                    <Node name="LPDataAggregatorTest" expanded="True">
+                      <Node name="Aggregate_OneGroupEvenCount_ReturnsAverageAsMedian" selected="True" />
+                    </Node>
+                    <Node name="LPDataLoaderTest" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DataService PreferredExecutionTarget="/Applications/Safari.app" />
+  <DisabledProjects>
+    <String>DataService/DataService.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DataService.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/Controllers/ValuesController.cs" relfile="DataService.API/Controllers/ValuesController.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/bin/Debug/netcoreapp2.1/DataService.deps.json
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/bin/Debug/netcoreapp2.1/DataService.runtimeconfig.json
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/bin/Debug/netcoreapp2.1/DataService.runtimeconfig.dev.json
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/bin/Debug/netcoreapp2.1/DataService.dll
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/bin/Debug/netcoreapp2.1/DataService.pdb
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/Debug/netcoreapp2.1/DataService.csprojAssemblyReference.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/Debug/netcoreapp2.1/DataService.RazorAssemblyInfo.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/Debug/netcoreapp2.1/DataService.RazorAssemblyInfo.cs
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/Debug/netcoreapp2.1/DataService.AssemblyInfoInputs.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/Debug/netcoreapp2.1/DataService.AssemblyInfo.cs
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/Debug/netcoreapp2.1/DataService.RazorTargetAssemblyInfo.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/Debug/netcoreapp2.1/DataService.dll
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/Debug/netcoreapp2.1/DataService.pdb

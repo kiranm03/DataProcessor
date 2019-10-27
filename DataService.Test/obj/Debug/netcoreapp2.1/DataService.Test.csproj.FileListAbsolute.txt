@@ -1,0 +1,16 @@
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/bin/Debug/netcoreapp2.1/DataService.Test.deps.json
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/bin/Debug/netcoreapp2.1/DataService.Test.runtimeconfig.json
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/bin/Debug/netcoreapp2.1/DataService.Test.runtimeconfig.dev.json
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/bin/Debug/netcoreapp2.1/DataService.Test.dll
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/bin/Debug/netcoreapp2.1/DataService.Test.pdb
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/obj/Debug/netcoreapp2.1/DataService.Test.csprojAssemblyReference.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/obj/Debug/netcoreapp2.1/DataService.Test.AssemblyInfoInputs.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/obj/Debug/netcoreapp2.1/DataService.Test.AssemblyInfo.cs
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/obj/Debug/netcoreapp2.1/DataService.Test.dll
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/obj/Debug/netcoreapp2.1/DataService.Test.pdb
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/bin/Debug/netcoreapp2.1/DataService.dll
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/bin/Debug/netcoreapp2.1/DataService.pdb
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.Test/obj/Debug/netcoreapp2.1/DataService.Test.csproj.CopyComplete

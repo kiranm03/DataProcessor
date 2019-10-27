@@ -1,0 +1,14 @@
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/bin/release/netcoreapp2.1/rhel.7.2-x64/DataService.deps.json
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/bin/release/netcoreapp2.1/rhel.7.2-x64/DataService.runtimeconfig.json
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/bin/release/netcoreapp2.1/rhel.7.2-x64/DataService.runtimeconfig.dev.json
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/bin/release/netcoreapp2.1/rhel.7.2-x64/DataService.dll
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/bin/release/netcoreapp2.1/rhel.7.2-x64/DataService.pdb
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/release/netcoreapp2.1/rhel.7.2-x64/DataService.csprojAssemblyReference.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/release/netcoreapp2.1/rhel.7.2-x64/DataService.csproj.CoreCompileInputs.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/release/netcoreapp2.1/rhel.7.2-x64/DataService.RazorAssemblyInfo.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/release/netcoreapp2.1/rhel.7.2-x64/DataService.RazorAssemblyInfo.cs
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/release/netcoreapp2.1/rhel.7.2-x64/DataService.AssemblyInfoInputs.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/release/netcoreapp2.1/rhel.7.2-x64/DataService.AssemblyInfo.cs
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/release/netcoreapp2.1/rhel.7.2-x64/DataService.RazorTargetAssemblyInfo.cache
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/release/netcoreapp2.1/rhel.7.2-x64/DataService.dll
+/Users/kiran/Projects/Coding Challenge/ermPower/DataProcessor/DataService.API/obj/release/netcoreapp2.1/rhel.7.2-x64/DataService.pdb
