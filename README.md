@@ -14,7 +14,13 @@
 2. API Gateway and Lambda to expose API to process the data.
 
 # Prerequisites to run local:
-NodeJS, Angular cli, dotnet core 2.1
+NodeJS, Angular cli, dotnet core 2.1, serverless
+
+# Deployment
+build file is included in the API project, to deploy serverless app.
+
+# Testing
+Use any rest api client tools(eg. Postman) to trigger API. 
 
 # Assumptions
 1. Files to be uploaded from trusted source. Hence, data validation of files is not implemented. However, API response will be loaded with error messge to inform the consuming party about the data issues in case of any.
