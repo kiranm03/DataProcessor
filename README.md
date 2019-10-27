@@ -12,12 +12,13 @@
 # AWS Services used:
 1. S3 static website hosting for Angular 8 web app for upload funtionality.
 2. API Gateway and Lambda to expose API to process the data.
+3. Cognito identity pool is created for angular app to access S3 bucket to upload files.
 
 # Prerequisites to run local:
 NodeJS, Angular cli, dotnet core 2.1, serverless
 
 # Deployment
-build file is included in the API project, to deploy serverless app.
+build file is included in the API project, to build and deploy serverless app.
 
 # Testing
 Use any rest api client tools(eg. Postman) to trigger API. 
